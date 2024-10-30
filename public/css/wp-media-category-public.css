@@ -1,0 +1,24 @@
+.wpmc-single-media {
+	width: 30%;
+	display: inline-block;
+	overflow: hidden;
+	height: 200px;
+	margin-left: 10px;
+	border: 2px solid #ddd;
+}
+.wpmc-single-media img {
+	max-width: none !important;
+}
+.wpmc-media-error{
+	color: #FFF;
+	border: 1px solid #F4B4A7;
+	padding: 10px;
+	background-color: #FC6445;
+}
+
+.wpmc-single-media-audio{
+	display: inline-block;
+	overflow: hidden;
+	margin-left: 10px;
+	border: 2px solid #ddd;
+}
